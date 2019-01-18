@@ -182,6 +182,7 @@ public:
 						cur = cur->_right;
 					else
 						cur = cur->_left;
+
 					if (cur->_left == NULL && cur->_right == NULL)
 					{
 						write_buff[write_size++] = cur->_weight._ch;
@@ -242,6 +243,7 @@ private:
 			}
 		}
 		itoa(lineCount, Count, 10);
+		strHeadInfo += '\n';
 		strHeadInfo += Count;
 		strHeadInfo += '\n';
 		fwrite(strHeadInfo.c_str(), 1, strHeadInfo.size(), f_out);  //写入文件的行号

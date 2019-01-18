@@ -1,18 +1,17 @@
-﻿生成启动时间为 2019/1/18 16:26:05。
-     1>项目“E:\tesec\test-p\test\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2019/1/18 19:48:19。
+     1>项目“E:\testgit\FileCopmress-HuffmanTree\FileCompress\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          D:\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
          test.cpp
-     1>e:\tesec\test-p\test\project1\project1\filecompress.h(116): warning C4018: “<=”: 有符号/无符号不匹配
-     1>e:\tesec\test-p\test\project1\project1\filecompress.h(116): warning C4552: “<=”: 运算符不起任何作用；应输入带副作用的运算符
-     1>e:\tesec\test-p\test\project1\project1\filecompress.h(168): warning C4244: “初始化”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
-     1>e:\tesec\test-p\test\project1\project1\filecompress.h(239): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
+     1>e:\testgit\filecopmress-huffmantree\filecompress\project1\filecompress.h(116): warning C4018: “<=”: 有符号/无符号不匹配
+     1>e:\testgit\filecopmress-huffmantree\filecompress\project1\filecompress.h(116): warning C4552: “<=”: 运算符不起任何作用；应输入带副作用的运算符
+     1>e:\testgit\filecopmress-huffmantree\filecompress\project1\filecompress.h(168): warning C4244: “初始化”: 从“unsigned __int64”转换到“size_t”，可能丢失数据
+     1>e:\testgit\filecopmress-huffmantree\filecompress\project1\filecompress.h(240): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据
        Link:
-         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\tesec\test-p\test\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\tesec\test-p\test\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\tesec\test-p\test\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\test.obj
-         Debug\zip.obj
-         Project1.vcxproj -> E:\tesec\test-p\test\Project1\Debug\Project1.exe
-     1>已完成生成项目“E:\tesec\test-p\test\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+         D:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\testgit\FileCopmress-HuffmanTree\FileCompress\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\testgit\FileCopmress-HuffmanTree\FileCompress\Debug\Project1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\testgit\FileCopmress-HuffmanTree\FileCompress\Debug\Project1.lib" /MACHINE:X86 Debug\test.obj
+         Project1.vcxproj -> E:\testgit\FileCopmress-HuffmanTree\FileCompress\Debug\Project1.exe
+     1>已完成生成项目“E:\testgit\FileCopmress-HuffmanTree\FileCompress\Project1\Project1.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.03
+已用时间 00:00:02.33
